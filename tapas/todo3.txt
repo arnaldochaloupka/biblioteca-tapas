@@ -242128,10 +242128,6 @@
 =245  10$aAlfabetización integral, lectura y escritura$bsaberes para comprender y recrear un mundo complejo$c , dirigido por Daniel Horacio Kaplan,  y Beatriz Noemí Kaplan
 =260  \\$aBuenos Aires$bCentro de Publicaciones Educativas y Material Didáctico S.R.L$c2026
 =490  1\$aRevista Novedades Educativas$vN° 409
-=500  \\$aLos editores adhieren al enfoque que sostiene la necesidad de revisar y ajustar el lenguaje para evitar un uso sexista que invisibiliza tanto a las mujeres como a otros géneros. No obstante, a los fines de hacer más amable la lectura, dejan constancia de que, hasta encontrar una forma más satisfactoria, utilizarán el masculino para los plurales y para generalizar profesiones y ocupaciones, así como en todo otro caso que el texto lo requiera
-=500  \\$aLas referencias digitales de las citas bibliográficas se encuentran vigentes al momento de la publicación de esta edición de la revista Novedades Educativas. La editorial no se responsabiliza por los eventuales cambios producidos con posterioridad por los responsables de los respectivos sitios y plataformas
-=500  \\$aLa Revista Novedades Educativas es propiedad de Beatriz Noemí Kaplan, editada por el Centro de Publicaciones Educativas y Material Didáctico S.R.L
-=500  \\$aSe terminó de producir en el mes de agosto de 2026 en Centro de Publicaciones Educativas y Material Didáctico SRL, Avenida Corrientes 4345, CABA y se imprime con equipos digitales propios
 =500  \\$aAño 38, No 409 [Agosto 2026]
 =505  10$tLeer, escribir, calcular... ¿y qué más? Comprender tecnologías: alfabetizaciones necesarias para el siglo XXI. /$rA. Schneider y J. Masine
 =505  10$tEducación técnica y alfabetización. /$rM. Isla Vera
