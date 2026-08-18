@@ -242169,3 +242169,26 @@
 =856  40$nMás información en: $u
 =952  \\$p011384 $abp3$bbp3 $o(051) 37 $zHEMEROTECA$yHEM
 =942  \\$cHEM
+
+=LDR ######nam a22#####4a 4500
+=003 001
+=005 0190730205154.0
+=008 50714s1973\\ag\\\\01\
+=020 \\$a968-16-3650-3
+=040 \\$aAR-BaBN$bspa$cAR-BaBN$eaacr$dRIC
+=100 \\$aBrowne, Anthony $b
+=245 \\$aGorila / $bAnthony Browne,$n
+=250 \\$a1a ed.
+=260 \\$aMéxico $bFondo de Cultura Económica$c2019
+=300 \\$a32 p. $bilustraciones a color$e
+=520 \\$aA Ana le encantan los gorilas. Sueña gorilas y dibuja gorilas, pero su papá nunca tiene tiempo para ir al zoológico. Cuando Ana le pide un gorila para su cumpleaños, ¡nunca imagina lo que el gorilita de peluche que le regalan es capaz de hacer!
+=650 \\$aANIMALES
+=650 \\$aCUENTOS INFANTILES
+=650 \\$aGORILAS
+=650 \\$aLIBROS ALBUM
+=650 \\$aFAMILIA
+=650 \\$aPADRES AUSENTES
+=659 \\$aLITERATURA
+=700 \\$aEsteva, Carmen $btraducción $g
+=952 \\$p011385$aBP3$bBP3$o8$lCAJA VIAJERA N° 1 - Libros Album - 1er Ciclo (INV: 8649)$zCAJA VIAJERA N° 1 - Libros Album - 1er Ciclo (INV: 8649)$yCAJ
+=942 \\$cCAJ
