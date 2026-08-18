@@ -158857,6 +158857,9 @@
 =505  10$t9_El juego de las formas_Browne_Anthony_5387
 =505  10$t10_Ramón preocupón_Browne_Anthony_5386
 =505  10$t11_Willy y la nube_Browne_Anthony_10693
+=505  10$t12_Ernesto el elefante_Browne_Anthony_10702
+=505  10$t13_Willy el mago_Browne_Anthony_11179
+=505  10$t14_Gorila_Browne_Anthony_11385
 =521  8\$aPRIMER CICLO (1er; 2do y 3er Grado)
 =659  \\$aLITERATURA
 =952  \\$p008649 $abp3$bbp3 $o8 $zCAJA VIAJERA N° 1 - Libros Album - 1er Ciclo (INV: 8649)$yCAJ
@@ -159306,7 +159309,6 @@
 =505  10$t 12_LA SELVA LOCA_004503
 =505  10$t 13_ABRAN CANCHA QUE AQUI VIENE DON QUIJOTE DE LA MANCHA_004555
 =505  10$t 14_EL LECTURON_004667
-=505  10$t 15_GORILA_004320
 =505  10$t 16_MIEDO_004527
 =505  10$t17_EL MENSAJERO DE SAN MARTIN_004583
 =505  10$t18_EL ETERNAUTA, Y OTROS CUENTOS_004615
