@@ -212101,8 +212101,8 @@
 =008 250721s1997\\\\ag\\\\\\\\\\\\\\\\\\\spa\d
 =020  \\$a978-84-945042-3-5
 =040  \\$aAR-BaBN$bspa$cAR-BaBN$eaacr$dRIC
-=100  1\$aLlena, Anna $b
-=245  10$aEl monstruo de colores$cAnna Llena , corrector de Raúl Alonso Alemany
+=100  1\$aLlenas, Anna $b
+=245  10$aEl monstruo de colores$cAnna Llenas , corrector de Raúl Alonso Alemany
 =250  \\$a1a ed.
 =260  \\$aPortugal$bFlamboyant$c2012
 =300  \\$a40 p.
