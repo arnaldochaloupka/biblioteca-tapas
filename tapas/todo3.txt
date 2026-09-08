@@ -525,7 +525,7 @@
 =659  \\$aEDUCACION
 =700  1\$aJáuregui, Silvia Georgina $bdirector $g
 =952  \\$pBAJA 000037 $abp3$bbp3 $o372 $zNEGRO 38 /$yBAJ$01$xLibro dados de baja$zLibro dados de baja
-=952  \\$p000038 $abp3$bbp3 $o372 $zNEGRO 39 /$yBK
+=952  \\$p000038 $abp3$bbp3 $o372 $zRAYA VIOLETA 14 /$yBK
 =952  \\$pBAJA 000039 $abp3$bbp3 $o372 $zNEGRO 40 /$yBAJ$01$xLibro dados de baja$zLibro dados de baja
 =942  \\$cBAJ
 
@@ -554,7 +554,7 @@
 =700  1\$aSoto, Andrea $b
 =700  1\$aTancredi, Elda $b
 =700  1\$aTrentín, Vanina Keila $b
-=952  \\$p000040 $abp3$bbp3 $o372 $zNEGRO 41 /$yBK
+=952  \\$p000040 $abp3$bbp3 $o372 $zRAYA VIOLETA 13 /$yBK
 =942  \\$cBK
 
 =LDR ######nam a22#####4a 4500
@@ -192452,7 +192452,7 @@
 =659  \\$aEDUCACION
 =700  1\$aRoggio, Patricia $b
 =700  1\$aBaldi, Marco $bilustrador $g
-=952  \\$p009902 $abp3$bbp3 $o372 6P $zRAYA GRIS 3 /$yBK
+=952  \\$p009902 $abp3$bbp3 $o372 6P $zRAYA GRIS 13 /$yBK
 =942  \\$cBK
 
 =LDR ######nam a22#####4a 4500
@@ -242631,3 +242631,51 @@
 =700 \\$aHeredia, Gabriela Ana $bcolaborador $g
 =952 \\$p011397$aBP3$bBP3$o372 5P$lRAYA GRIS 12 /$zRAYA GRIS 12 /$yBK
 =942 \\$cBK
+
+=LDR ######nam a22#####4a 4500
+=003 001
+=005 0190730205154.0
+=008 50714s1973\\ag\\\\01\
+=020 \\$a978-987-07-6234-8
+=040 \\$aAR-BaBN$bspa$cAR-BaBN$eaacr$dRIC
+=245 \\$aMatetubers 5 $b , compilado por Adriana Díaz, Agustina Duarte, Flavia Guibourg$n
+=250 \\$a5a ed.
+=260 \\$aCiudad Autónoma de Buenos Aires $bArte Gráfico Editorial$c2026
+=300 \\$a144 p. $b
+=500 \\$aLIBRO
+=505 \\$t1.- Numeración$r
+=505 \\$t2.- Operaciones con números naturales$r
+=505 \\$t3.- Triángulos$r
+=505 \\$t4.- Múltiplos y divisores$r
+=505 \\$t5.- Fracciones$r
+=505 \\$t6.- Relaciones entre rectas$r
+=505 \\$t7.- Fracciones y decimales$r
+=505 \\$t8.- Medida$r
+=505 \\$t9.- Cuadriláteros$r
+=505 \\$t10.- Estadística y probabilidad$r
+=650 \\$aPROBABILIDAD
+=650 \\$aESTADISTICA
+=650 \\$aCUADRILATEROS
+=650 \\$aMEDIDA
+=650 \\$aDECIMALES
+=650 \\$aRECTAS
+=650 \\$aRELACIONES
+=650 \\$aMULTIPLO
+=650 \\$aDIVISOR
+=650 \\$aEDUCACION PRIMARIA
+=659 \\$aMATEMATICA
+=700 \\$aDíaz, Adriana $bcompilador $g
+=700 \\$aDuarte, Agustina $b
+=700 \\$aGuibourg, Flavia $b
+=700 \\$aKurzrok, Liliana $b
+=700 \\$aLanza, Pierina $b
+=700 \\$aMaloberti, Federico $b
+=700 \\$aRossetti, Alejandro $b
+=700 \\$aUrquiza, Mónica $b
+=700 \\$aVasches, Conrado $b
+=952 \\$p011399$aBP3$bBP3$o372 5P$lRAYA VIOLETA 17 /$zRAYA VIOLETA 17 /$yBK
+=952 \\$p011398$aBP3$bBP3$o372 5P$lRAYA VIOLETA 16 /$zRAYA VIOLETA 16 /$yBK
+=942 \\$cBK
+
+
+
