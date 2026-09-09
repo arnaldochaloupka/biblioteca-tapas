@@ -203929,7 +203929,8 @@
 =250  \\$a1a ed.
 =260  \\$aCiudad Autónoma de Buenos Aires :$bSantillana$c2021
 =300  \\$a20 p. $bil. col.
-=500  \\$aPertenece a la Colección LEER ABRE MUNDOS Nivel INICIAL
+=500  \\$aInv.: 10342 Pertenece a la Colección LEER ABRE MUNDOS Nivel INICIAL
+=500  \\$aInv.: 10669 Está en estantería.  
 =500  \\$aLIBRO
 =650  04$aLITERATURA DE ARGENTINA
 =650  04$aLITERATURA INFANTIL
