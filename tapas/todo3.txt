@@ -578,7 +578,7 @@
 =650  04$aLINGUISTICA
 =659  \\$aEDUCACION
 =700  1\$aGonzález, Raúl A. $beditor $g
-=952  \\$p000041 $abp3$bbp3 $o372 $zNEGRO 42 /$yBK
+=952  \\$p000041 $abp3$bbp3 $o372 6P$zRAYA GRIS 14 /$yBK
 =942  \\$cBK
 
 =LDR ######nam a22#####4a 4500
