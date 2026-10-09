@@ -132442,7 +132442,7 @@
 =653  00$aACADEMIA PORTENA DEL LUNFARDO
 =659  \\$aLINGUISTICA
 =700  1\$aDa Veiga, Otilia $b
-=952  \\$p007088 $abp3$bbp3 $o800 $zTRIANG. VERDE 388 /$yBK
+=952  \\$p007088 $abp3$bbp3 $o800 $zTRIANG. VERDE 386 /$yBK
 =952  \\$pBAJA 007089 $abp3$bbp3 $o800 $zTRIANG. VERDE 387 /$yBAJ$01$xLibro dados de baja$zLibro dados de baja
 =942  \\$cBK
 
