@@ -247922,6 +247922,9 @@
 =659  \\$aEDUCACION
 =700  1\$aBono, Laura Cecilia $bcoordinador $g
 =700  1\$aMaine, Claudia Amelia $bcoordinador $g
+=952  \\$p011505 $abp3$bbp3 $o373.5 $zCELESTE * RAYA AZUL 33/$yBK
+=942  \\$cBK
+
 
 =LDR ######nam a22#####4a 4500
 =003 0001
