@@ -249643,9 +249643,7 @@
 =245  10$aNovedades educativas$binclusión y diversidad: debates, políticas y prácticas situadas /$cdirector Daniel Horacio Kaplan.
 =260  \\$aCiudad Autónoma de Buenos Aires$bCentro de Publicaciones Educativas y Material Didáctico$c2026
 =300  \\$a68 p.
-=500  \\$aLos editores adhieren al enfoque que sostiene la necesidad de revisar y ajustar el lenguaje para evitar un uso sexista que invisibiliza tanto a las mujeres como a otros géneros. No obstante, a los fines de hacer más amable la lectura, dejan constancia de que, hasta encontrar una forma más satisfactoria, utilizarán el masculino para los plurales y para generalizar profesiones y ocupaciones, así como en todo otro caso que el texto lo requiera.
-=500  \\$aLas referencias digitales de las citas bibliográficas se encuentran vigentes al momento de la publicación de esta edición de la revista Novedades Educativas. La editorial no se responsabiliza por los eventuales cambios producidos con posterioridad por los responsables de los respectivos sitios y plataformas.
-=500  \\$aSe terminó de producir en el mes de noviembre de 2026 en Centro de Publicaciones Educativas y Material Didáctico S.R.L., Avenida Corrientes 4345, CABA y se imprime con equipos digitales propios.
+=500  \\$aAño 38, No 410 [Noviembre 2026]
 =505  10$tLa formación de asistentes personales para la vida independiente. Una experiencia de capacitación virtual masiva sin tutores /$rK. Guerschberg.
 =505  10$tEncrucijadas del campo psicoeducativo /$rM. Sipes.
 =505  10$tDe diagnósticos necesarios. Cuando la baja visión no tiene nombre /$rF. Mon.
